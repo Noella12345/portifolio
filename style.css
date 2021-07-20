@@ -1,0 +1,62 @@
+.containering{
+    width: 60%;
+    padding: 0;
+    margin-top: -1cm;
+    background-color: #201C1C;
+}
+ol{
+    list-style: none;
+    margin-top: 1cm;
+  
+}
+ol li{
+    float: left;
+    width: 13rem;
+    color: white;
+    font-family: "Roboto Mono";
+    font-size: 18px;
+}
+body{
+    background-color: black;
+}
+.content{
+    margin-top: 2cm;
+    width: 90%;
+   
+    background-color: #C4C4C4;
+}
+.flex{
+    margin-top: 1cm;
+ 
+}
+.title{
+    margin-top: 3cm;
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+}
+.btn{
+    margin-top: 1cm;
+    width: 3cm;
+    height: 1cm;
+    background-color: #C4C4C4;
+    color: black;
+    border: none;
+    font-weight: bold;
+    border-radius: 7px;
+}
+footer{
+    background-color: #C4C4C4;
+    margin-top: 2cm;
+    line-height: 35px;
+    width: 90%;
+    height: 1cm;
+
+}
+.service{
+    background-color: #201C1C;
+    color: white;
+    border-radius: 20px;
+    margin-left: 0.7cm;
+    margin-right: 0.7cm;
+}
